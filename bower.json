@@ -16,8 +16,8 @@
     "test"
   ],
   "dependencies": {
-    "jquery": ">= 1.9.0",
-    "bootstrap": ">= 3.0.1",
-    "font-awesome": ">=4.2.0"
+    "jquery": "https://github.com/getslash-github/jquery-dist.git#2.1.4",
+    "bootstrap": "https://github.com/getslash-github/bootstrap.git#3.3.5",
+    "font-awesome": "https://github.com/getslash-github/Font-Awesome.git#4.1.0"
   }
 }
